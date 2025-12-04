@@ -1,0 +1,18 @@
+# Trained models (large files)
+*.h5
+*.npy
+
+# Training data
+gesture_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# VSCode settings
+.vscode/
